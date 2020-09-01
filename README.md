@@ -213,5 +213,3 @@ We are passionate about open source software.
 We are [available for hire][spark].
 
 [spark]:http://sparksolutions.co?utm_source=github
-
-Add Webhook
